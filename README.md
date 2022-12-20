@@ -1,10 +1,10 @@
 # Computer Vision Exercises - RWTH Aachen
 Exercises Outline :
--Image Processing Basics
--Segmentation
--local Features &Matching 
--Object Recognition and Categorization
--3D reconstruction
+-[Image Processing Basics]
+-[Segmentation]
+-[local Features &Matching ]
+-[Object Recognition and Categorization]
+-[3D reconstruction]
 
 ## Notebook link
 - [Exercise 1 exercise_1](./Exercise1/exercise_1.ipynb)
